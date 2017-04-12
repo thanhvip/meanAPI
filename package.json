@@ -1,0 +1,30 @@
+{
+  "name": "restfullapi",
+  "version": "1.0.0",
+  "description": "projectapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "okie"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhvip/meanAPI.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "api"
+  ],
+  "author": "TRUONG VAN THANH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhvip/meanAPI/issues"
+  },
+  "homepage": "https://github.com/thanhvip/meanAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4",
+    "node-restful": "^0.2.6"
+  }
+}
